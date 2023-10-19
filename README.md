@@ -4,7 +4,7 @@
 ### Profile
 - 👨‍🎓 I study informatics (Software engineering) at University college: [Faculty of informatics and information technologies](https://www.fiit.stuba.sk/en.html?page_id=749)
 - 💻 Working for [VNET, a.s.](https://www.vnet.sk/en/)
-- 👨‍💻 Also participating at [Ynet - Student organisation](https://ynet.sk/en/)
+- 👨‍💻 Also participating and currently chairman at [Ynet - Student organisation](https://ynet.sk/en/)
 - 👀 Interested in **network administration, security, penetration testing** (but still in the beginning of learning)
 
 
