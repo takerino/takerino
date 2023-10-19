@@ -2,7 +2,7 @@
 > 📍 Currently based in Bratislava (from Kosice)
 
 ### Profile
-- 👨‍🎓 - Actualy studying Postgraduate degree (Master) in computer science (Software security) at University college: [Faculty of Electrical Engineering and Information Technology]([https://www.fei.stuba.sk/])
+- 👨‍🎓 - Actualy studying Postgraduate degree (Master) in computer science (Software security) at University college: [Faculty of Electrical Engineering and Information Technology](https://www.fei.stuba.sk/)
 - 👨‍🎓 - Graduated Bachelor degree in computer science (Software engineering) at University college: [Faculty of Informatics and Information technologies](https://www.fiit.stuba.sk/en.html?page_id=749)
 - 💻 Working for [VNET, a.s.](https://www.vnet.sk/en/)
 - 👨‍💻 Also participating and currently chairman at [Ynet - Student organisation](https://ynet.sk/en/)
